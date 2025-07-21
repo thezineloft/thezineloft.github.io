@@ -1,0 +1,16 @@
+
+/* Default (light) theme */
+:root {
+  --bg: white;
+  --accent-bg: white;
+  --text: #0c2380;
+  --text-light: #585858;
+  --border: #898EA4;
+  --accent: #0d47a1;
+  --accent-hover: #1266e2;
+  --accent-text: var(--bg);
+  --code: #d81b60;
+  --preformatted: #444;
+  --marked: #ffdd33;
+  --disabled: #efefef;
+}
