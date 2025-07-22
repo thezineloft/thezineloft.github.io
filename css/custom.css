@@ -31,9 +31,9 @@
 /*dropdown button*/
 .dropdown .dropbtn {
   font-size: 16px;
-  border: #007cbc;
-  outline: #007cbc;
-  color: #007cbc;
+  border: navy;
+  outline: navy;
+  color: navy;
   padding: 14px 16px;
   background-color: inherit;
   font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
@@ -42,14 +42,14 @@
 
 /* Add a background color to navbar links on hover */
 .navbar a:hover, .dropdown:hover .dropbtn {
-  background-color: navy;
+  background-color: powderblue;
 }
 
 /* Dropdown content (hidden by default) */
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: navy;
+  background-color: powderblue;
   min-width: 160px;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   z-index: 1;
@@ -59,7 +59,7 @@
 .dropdown-content a {
   font-size: 16px;
   float: none;
-  color: #007cbc;
+  color: navy;
   padding: 12px 16px;
   text-decoration: none;
   display: block;
